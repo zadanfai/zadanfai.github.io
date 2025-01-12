@@ -117,14 +117,14 @@ _Additional Insights & Recommendations:_
 - Resort Hotels should focus on promoting leisure travel to capitalize on their lower cancellation rates.
 - Sending booking reminders and offering rescheduling options can reduce cancellations and enhance customer retention.
 
-Google Colab Link: ![Data_Cleaning](https://colab.research.google.com/drive/1DD26w6VQpkK8pldMgbO3-JZbH2Yj2yzB?usp=sharing#scrollTo=eVPXcXPGA_c_)
+Google Colab Link: [Data_Cleaning](https://colab.research.google.com/drive/1DD26w6VQpkK8pldMgbO3-JZbH2Yj2yzB?usp=sharing#scrollTo=eVPXcXPGA_c_)
 
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Skills & Certificates </h2>
 
 **Technical Skills**: Python, TensorFlow, SQL, Google Data Studio, NLP, Computer Vision, Data Analysis, Full-Stack Web Development.  
 **Soft Skills**: Problem-solving, quick learning, attention to detail, team leadership.
-**Certificates I Gain**: ![here](https://drive.google.com/drive/folders/1BmpXp1669jzlLzwVwxZaSL4ECG_Qrldg?usp=sharing)
+**Certificates I Gain**: [here](https://drive.google.com/drive/folders/1BmpXp1669jzlLzwVwxZaSL4ECG_Qrldg?usp=sharing)
 
 <h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px; text-align:center;"> 🔗 Connect with me </h2>
 

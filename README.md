@@ -94,7 +94,7 @@ _Result:_
 - Enhanced accessibility for individuals with hearing impairments by providing a scalable and inclusive communication tool.  
 - Identified areas for future improvements, such as adapting to variations in sign language and improving model accuracy, to further support accessibility in technology.  
 
-- **Customer Cancellation Analysis for Resort Hotels**  
+**Customer Cancellation Analysis for Resort Hotels**  
   Provided actionable insights to reduce cancellation rates and optimize revenue strategies for hotels.
 
 _Challenge:_ Analyze and reduce hotel booking cancellation rates from 13–29% to 10% within a year while addressing revenue decline caused by customer cancellations.

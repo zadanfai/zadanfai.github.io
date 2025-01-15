@@ -6,8 +6,8 @@ description: Data isn't just numbers—it's the heartbeat of informed business d
 resume_url: 'https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMUNOgrrfK/view?usp=sharing'
 
 baseurl: "" # the subpath of your site, e.g., "/blog" if your site is hosted at "example.com/blog"
-url: "https://zadanfai.github.io/zadan-portos/" # the base hostname & protocol for your site, e.g., "http://example.com"
+url: "" # the base hostname & protocol for your site, e.g., "http://example.com"
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 markdown: kramdown

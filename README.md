@@ -117,7 +117,7 @@ _Additional Insights & Recommendations:_
 - Resort Hotels should focus on promoting leisure travel to capitalize on their lower cancellation rates.
 - Sending booking reminders and offering rescheduling options can reduce cancellations and enhance customer retention.
 
-Google Colab Link: [Data_Cleaning](https://colab.research.google.com/drive/1DD26w6VQpkK8pldMgbO3-JZbH2Yj2yzB?usp=sharing#scrollTo=eVPXcXPGA_c_)
+Google Colab Link: [Data Cleaning](https://colab.research.google.com/drive/1DD26w6VQpkK8pldMgbO3-JZbH2Yj2yzB?usp=sharing#scrollTo=eVPXcXPGA_c_)
 
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Skills & Certificates </h2>

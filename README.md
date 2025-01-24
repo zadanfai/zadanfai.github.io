@@ -33,19 +33,20 @@ Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMU
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Work Experience Highlights </h2>
 
-- 🤝 Cross-functional Collaborator: Played a pivotal role in multidisciplinary teams, leveraging technical and analytical skills to bridge communication gaps between data scientists, engineers, and stakeholders for cohesive project execution.
+- 🤝 **Cross-functional Collaborator:** Played a pivotal role in multidisciplinary teams, leveraging technical and analytical skills to bridge communication gaps between data scientists, engineers, and stakeholders for cohesive project execution.
 
-- 💡 Balanced Decision-Maker: Known for balancing speed and quality in decision-making, particularly during high-pressure scenarios, ensuring timely delivery of data-driven solutions without compromising accuracy.
+- 💡 **Balanced Decision-Maker:** Known for balancing speed and quality in decision-making, particularly during high-pressure scenarios, ensuring timely delivery of data-driven solutions without compromising accuracy.
 
-- 🌟 User-Centric Innovator: Spearheaded enhancements in user interfaces and functionality for machine learning models and analytics tools, resulting in a 25% increase in user engagement and streamlined workflows.
+- 🌟 **User-Centric Innovator:** Spearheaded enhancements in user interfaces and functionality for machine learning models and analytics tools, resulting in a 25% increase in user engagement and streamlined workflows.
 
-- 🔍 Data-Driven Strategist: Conducted in-depth analyses and delivered actionable insights through compelling dashboards and reports, enabling stakeholders to make informed business decisions aligned with organizational goals.
+- 🔍 **Data-Driven Strategist:** Conducted in-depth analyses and delivered actionable insights through compelling dashboards and reports, enabling stakeholders to make informed business decisions aligned with organizational goals.
 
-- 🧠 Problem-Solving Pioneer: Tackled data challenges by designing automated data pipelines and implementing optimized machine learning algorithms, reducing processing time by 40% and improving model reliability.
+- 🧠 **Problem-Solving Pioneer:** Tackled data challenges by designing automated data pipelines and implementing optimized machine learning algorithms, reducing processing time by 40% and improving model reliability.
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Projects </h2>
 
 **FindUp: Bridging Tech Talent and Startups**  
+  
   A capstone project developed as part of Bangkit Academy 2024. This mobile platform connects tech talents with startup founders, addressing challenges in collaboration and team dynamics.  
   - Integrated TensorFlow, Keras, and a BERT-based model for enhanced talent matching.  
   - Achieved 89% accuracy in resume analysis and recommendation systems using NLP techniques.
@@ -67,10 +68,11 @@ _Result:_
 - Contributed to scaling Indonesia’s startup ecosystem by enabling AI-driven hiring solutions aligned with national digital transformation goals.
 
 _Technologies:_
-NLP Models: Pre-trained BERT, TensorFlow
-Data Processing: JSON structuring, tf.data API
-Cloud Services: Google Cloud Run, Pub/Sub, Cloud Functions, Vertex AI, JWT
-Mobile Stack: Retrofit, Datastore, Gson, JUnit & Espresso, Fragment, Logging, Navigation, CircleImageViewglide, Lifecycle and ViewModel
+
+1. NLP Models: Pre-trained BERT, TensorFlow
+2. Data Processing: JSON structuring, tf.data API
+3. Cloud Services: Google Cloud Run, Pub/Sub, Cloud Functions, Vertex AI, JWT
+4. Mobile Stack: Retrofit, Datastore, Gson, JUnit & Espresso, Fragment, Logging, Navigation, CircleImageViewglide,Lifecycle and ViewModel
 
 
 **Real-Time Sign Language Detection**
@@ -124,6 +126,7 @@ Google Colab Link: [Data Cleaning](https://colab.research.google.com/drive/1DD26
 
 **Technical Skills**: Python, TensorFlow, SQL, Google Data Studio, NLP, Computer Vision, Data Analysis, Full-Stack Web Development.  
 **Soft Skills**: Problem-solving, quick learning, attention to detail, team leadership.
+
 **Certificates I Gain**: [here](https://drive.google.com/drive/folders/1BmpXp1669jzlLzwVwxZaSL4ECG_Qrldg?usp=sharing)
 
 <h2 style="background-color:#e0f7fa; padding:8px; border-radius:8px; text-align:center;"> 🔗 Connect with me </h2>

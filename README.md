@@ -4,7 +4,7 @@ Hello Everyone! I am Zadan Fairuz Mahitala, an Informatics student with a strong
 
 My academic and professional journey reflects a commitment to excellence and a passion for harnessing technology to solve real-world problems. From leading multidisciplinary projects to achieving certifications in cutting-edge technologies, I am driven to create innovative solutions that make a difference.  
 
-Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMUNOgrrfK/view?usp=sharing).
+Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMUNOgrrfK/view?usp=sharing)!
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Education</h2>
 
@@ -16,7 +16,7 @@ Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMU
 
 **Machine Learning Cohort**  
 
-| *Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka* | January 2024 – January 2024  
+| *Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka (Remote, Indonesia)* | September 2024 – January 2025
 - Successfully passed the MSIB Bangkit 4636 cohort selection from over 45,000 applicants, with an acceptance rate of 10%.  
 - Completed various Coursera Machine Learning courses, including CNN, NLP, Transfer Learning, and Time Series, achieving 100% progress.  
 - Participated in all program activities with just one leave permission and earned 12 certifications within the designated timeframe.  

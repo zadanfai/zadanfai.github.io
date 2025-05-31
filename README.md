@@ -47,7 +47,10 @@ Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMU
 
 **FindUp: Bridging Tech Talent and Startups**  
   
-  A capstone project developed as part of Bangkit Academy 2024. This mobile platform connects tech talents with startup founders, addressing challenges in collaboration and team dynamics.  
+  A capstone project developed as part of Bangkit Academy 2024. This mobile platform connects tech talents with startup founders, addressing challenges in collaboration and team dynamics.
+
+  ![FindUp Background](images/Findup-dashboard.png)
+
   - Integrated TensorFlow, Keras, and a BERT-based model for enhanced talent matching.  
   - Achieved 89% accuracy in resume analysis and recommendation systems using NLP techniques.
 
@@ -74,6 +77,7 @@ _Technologies:_
 3. Cloud Services: Google Cloud Run, Pub/Sub, Cloud Functions, Vertex AI, JWT
 4. Mobile Stack: Retrofit, Datastore, Gson, JUnit & Espresso, Fragment, Logging, Navigation, CircleImageViewglide,Lifecycle and ViewModel
 
+Documentation: [Github Repo](https://github.com/Timnas-Bangkit)
 
 **Real-Time Sign Language Detection**
 

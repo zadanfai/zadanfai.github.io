@@ -50,7 +50,7 @@ Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMU
   A capstone project developed as part of Bangkit Academy 2024. This mobile platform connects tech talents with startup founders, addressing challenges in collaboration and team dynamics.
 
   <a target="_blank">
-    <img src="images/Findup-dashboard.png" alt="Instagram" style="width: auto; height: auto; margin-right: 10px;">
+    <img src="images/Findup-dashboard.png" alt="Instagram" style="width: auto; height: auto; margin: auto">
   </a>
 
   - Integrated TensorFlow, Keras, and a BERT-based model for enhanced talent matching.  
@@ -83,6 +83,10 @@ Documentation: [Github Repo](https://github.com/Timnas-Bangkit)
 
 **Real-Time Sign Language Detection**
 
+<a target="_blank">
+    <img src="images/Sign-language.png" alt="Instagram" style="width: auto; height: auto; margin: auto">
+</a>
+
 _Challenge:_  
 Develop a system that utilizes digital image processing and machine learning to recognize and interpret sign language gestures in real-time, aiding individuals with hearing impairments in inclusive communication.  
 
@@ -103,6 +107,7 @@ _Result:_
 - Identified areas for future improvements, such as adapting to variations in sign language and improving model accuracy, to further support accessibility in technology.  
 
 **Customer Cancellation Analysis for Resort Hotels**  
+  
   Provided actionable insights to reduce cancellation rates and optimize revenue strategies for hotels.
 
 _Challenge:_ Analyze and reduce hotel booking cancellation rates from 13–29% to 10% within a year while addressing revenue decline caused by customer cancellations.

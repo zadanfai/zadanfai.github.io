@@ -49,7 +49,9 @@ Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMU
   
   A capstone project developed as part of Bangkit Academy 2024. This mobile platform connects tech talents with startup founders, addressing challenges in collaboration and team dynamics.
 
-  ![FindUp Background](images/Findup-dashboard.png)
+  <a target="_blank">
+    <img src="images/Findup-dashboard.png" alt="Instagram" style="width: 30px; height: 30px; margin-right: 10px;">
+  </a>
 
   - Integrated TensorFlow, Keras, and a BERT-based model for enhanced talent matching.  
   - Achieved 89% accuracy in resume analysis and recommendation systems using NLP techniques.

@@ -4,13 +4,13 @@ Hello Everyone! I am Zadan Fairuz Mahitala, an Informatics student with a strong
 
 My academic and professional journey reflects a commitment to excellence and a passion for harnessing technology to solve real-world problems. From leading multidisciplinary projects to achieving certifications in cutting-edge technologies, I am driven to create innovative solutions that make a difference.  
 
-Find my resume [here](https://drive.google.com/file/d/1MsF9y63MplcJUl4TOveKhPAMUNOgrrfK/view?usp=sharing)!
+Find my resume [here](https://drive.google.com/file/d/1aanYP3oHRlebSFDwRlUGYTwUp6MO1ygp/view?usp=sharing)!
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Education</h2>
 
 | Degree | Institution | GPA | Relevant Coursework |
 | ------ | ----------- | --- | ------------------- |
-| B.Sc. in Informatics | Universitas Singaperbangsa Karawang | 3.87/4.00 | Data Structure & Algorithm, Statistic, Artificial Intelligence, Data Mining, Business Intelligence, Big Data Analysis, Machine Learning, Deep Learning, Digital Image Processing, Embedded Intelligent Systems |
+| B.Sc. in Informatics | Universitas Singaperbangsa Karawang | 3.90/4.00 | Data Structure & Algorithm, Statistic, Artificial Intelligence, Data Mining, Business Intelligence, Big Data Analysis, Machine Learning, Deep Learning, Digital Image Processing, Embedded Intelligent Systems |
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> My Professional Journey</h2>
 
@@ -84,7 +84,7 @@ Documentation: [Github Repo](https://github.com/Timnas-Bangkit)
 **Real-Time Sign Language Detection**
 
 <a target="_blank">
-    <img src="images/Sign-language.png" alt="Instagram" style="width: auto; height: auto; margin: auto">
+    <img src="images/Sign-language.png" alt="sign-language" style="width: auto; height: auto; margin: auto">
 </a>
 
 _Challenge:_  
@@ -152,7 +152,7 @@ Google Colab Link: [Data Cleaning](https://colab.research.google.com/drive/1DD26
   <a href="mailto:zadanfaidelta@gmail.com">
     <img src="images/email.jpg" alt="Email" style="width: 30px; height: 30px; margin-right: 10px;">
   </a>
-  <a href="https://www.instagram.com/zadanfai" target="_blank">
+  <a href="https://www.instagram.com/zdnfairuz_" target="_blank">
     <img src="images/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px; margin-right: 10px;">
   </a>
 </div>

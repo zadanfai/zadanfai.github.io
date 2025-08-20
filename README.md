@@ -4,7 +4,7 @@ Hello Everyone! I am Zadan Fairuz Mahitala, an Informatics student with a strong
 
 My academic and professional journey reflects a commitment to excellence and a passion for harnessing technology to solve real-world problems. From leading multidisciplinary projects to achieving certifications in cutting-edge technologies, I am driven to create innovative solutions that make a difference.  
 
-Find my resume [here](https://drive.google.com/file/d/1aanYP3oHRlebSFDwRlUGYTwUp6MO1ygp/view?usp=sharing)!
+Find my resume [here](https://drive.google.com/file/d/1jZQaveX0-NmQ--bp7Y-rX8daVzTN4hIe/view?usp=sharing)!
 
 <h2 style="background-color:#e0f7fa; padding:08px; border-radius:8px;"> Education</h2>
 
